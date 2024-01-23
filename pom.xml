@@ -11,6 +11,7 @@
 	<groupId>com.example</groupId>
 	<artifactId>PersonDetails</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	<packaging>jar</packaging>
 	<name>PersonDetails</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
